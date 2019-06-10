@@ -1,0 +1,1 @@
+demo case https://stackoverflow.com/questions/56519116/why-doesnt-nlog-produce-any-output-when-my-layout-starts-with-pad
