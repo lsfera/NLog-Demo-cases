@@ -66,6 +66,9 @@ namespace FileLocksAndShutdown
             return config;
         }
 
+        /// <remarks>
+        /// Copied from Stackoverflow: https://stackoverflow.com/a/3202085/201303. Thanks https://stackoverflow.com/users/213725/dixond!
+        /// </remarks>
         public static bool IsFileLocked(string filePath)
         {
             try
